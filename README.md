@@ -4,7 +4,7 @@ toastr for laravel5
 
 # Installation
 
-* Run composer require fenxiangpaomo/toastr-for-laravel5
+* Run composer require fenxiangpaomo/toastr
 * Add Fenxiangpaomo\Toastr\ToastrServiceProvider::class, to providers in config/app.php
 * Add 'Toastr' => Yuansir\Toastr\Facades\Toastr::class, to aliases in config/app.php
 * Run php artisan vendor:publish
