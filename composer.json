@@ -1,6 +1,8 @@
 {
-    "name": "fenxiangpaomo/toastr",
+    "name": "fenxiangpaomo/toastr-5-laravel",
     "description": "toastr for laravel5",
+    "keywords": ["toastr", "notification", "laravel", "php"],
+    "homepage": "https://github.com/fenxiangpaomo/toastr-5-laravel",
     "authors": [
         {
             "name": "LoneStorm",
@@ -10,10 +12,13 @@
     "type": "library",
     "license": "MIT",
     "minimum-stability": "dev",
-    "require": {},
+    "require": {
+        "php": ">=5.5.9"
+    },
     "autoload": {
         "psr-4": {
             "Fenxiangpaomo\\Toastr\\": "src/"
         }
     }
 }
+
