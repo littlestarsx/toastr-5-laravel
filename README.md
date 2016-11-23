@@ -1,6 +1,6 @@
 # toastr
 
-toastr for laravel5
+[toastr.js](https://github.com/CodeSeven/toastr) for laravel5
 
 # Installation
 
