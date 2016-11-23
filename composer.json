@@ -1,0 +1,19 @@
+{
+    "name": "fenxiangpaomo/toastr",
+    "description": "toastr for laravel5",
+    "authors": [
+        {
+            "name": "LoneStorm",
+            "email": "LoneStorom@fx.com"
+        }
+    ],
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Fenxiangpaomo\\Toastr\\": "src/"
+        }
+    }
+}
