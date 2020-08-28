@@ -1,12 +1,12 @@
 {
-    "name": "fenxiangpaomo/toastr-5-laravel",
+    "name": "littlestarsx/toastr-5-laravel",
     "description": "toastr for laravel5",
     "keywords": ["toastr", "notification", "laravel", "php"],
-    "homepage": "https://github.com/fenxiangpaomo/toastr-5-laravel",
+    "homepage": "https://github.com/littlestarsx/toastr-5-laravel",
     "authors": [
         {
-            "name": "LoneStorm",
-            "email": "LoneStorm@fx.com"
+            "name": "littlestarsx",
+            "email": "littlestarsx@fx.com"
         }
     ],
     "type": "library",
@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Fenxiangpaomo\\Toastr\\": "src/"
+            "Littlestarsx\\Toastr\\": "src/"
         }
     }
 }
